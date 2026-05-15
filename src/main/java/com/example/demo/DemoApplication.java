@@ -14,6 +14,6 @@ public class DemoApplication {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello from CI/CD DevOps Project";
+        return "Hello from CI/CD new DevOps Project";
     }
 }
